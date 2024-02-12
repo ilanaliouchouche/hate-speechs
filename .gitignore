@@ -2,3 +2,7 @@
 *.txt
 stud
 *.json
+*.log
+*.test
+*.train
+*.val
