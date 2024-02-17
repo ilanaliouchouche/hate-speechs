@@ -6,3 +6,4 @@ stud
 *.test
 *.train
 *.val
+bert-base-uncased-finetuned-hs-od
